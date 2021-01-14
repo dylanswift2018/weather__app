@@ -14,4 +14,6 @@ Weather APIs are Application Programming Interfaces that allow you to connect to
 Thanks to APIs and smartphones with built-in GPS, we have access to mobile applications that provide hour-by-hour forecasts,         
 severe weather alerts, and other relevant weather information for just about every place we go.
 
+API used in this project : http://api.openweathermap.org
+
 
