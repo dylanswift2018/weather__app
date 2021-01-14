@@ -17,11 +17,11 @@ severe weather alerts, and other relevant weather information for just about eve
 API used in this project : http://api.openweathermap.org
 
 # Other APIs you can use 
-OpenWeatherMap API
-Weatherbit API
-AccuWeather API
-Dark Sky API
-Weather2020 API
-ClimaCell API
-Visual Crossing API
+OpenWeatherMap API       
+Weatherbit API       
+AccuWeather API       
+Dark Sky API      
+Weather2020 API      
+ClimaCell API      
+Visual Crossing API    
 
